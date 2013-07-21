@@ -12,7 +12,7 @@ Test everything's working by running the `v8` command in your shell - you should
 > V8 version 3.15.11 [sample shell]
 ```
 
-## 2. Read through Rock-Paper-Scissors code (20 mins)
+## 2. Read through Rock-Paper-Scissors-Lizard-Spock code (20 mins)
 
 Go through the code in the `ruby/` directory - it's a very simple game of Rock-Paper-Scissors. Read through the code & specs, and be ready to talk about:
 
