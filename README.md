@@ -1,4 +1,4 @@
-## 1. Install v8 (5 mins)
+## 1. Install v8 (5 minutes)
 
 **v8** is Google's Javascript engine (used in Chrome). Install it using `brew` so we can run JS programs from the command line:
 
@@ -12,7 +12,7 @@ Test everything's working by running the `v8` command in your shell - you should
 > V8 version 3.15.11 [sample shell]
 ```
 
-## 2. Read through Rock-Paper-Scissors code (20 mins)
+## 2. Read through Rock-Paper-Scissors code (20 minutes)
 
 Go through the code in the `ruby/` directory - it's a very simple game of Rock-Paper-Scissors. Read through the code & specs, and be ready to talk about:
 
