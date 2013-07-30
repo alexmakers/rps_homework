@@ -1,4 +1,4 @@
-## 1. Install v8 (5 mins)
+## 1. Install v8 (15 mins)
 
 **v8** is Google's Javascript engine (used in Chrome). Install it using `brew` so we can run JS programs from the command line:
 
